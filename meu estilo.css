@@ -1,0 +1,38 @@
+h2{
+    color:white;
+    font-family: 'Kolker Brush', cursive;
+    font-size: 30px;
+    text-shadow: 2px 2px 4px rgb(250, 5, 5);
+    box-shadow: 8px 8px 8px 8px black;
+}
+h3{
+    color: gray;
+    font-size: 20px;
+    text-align: center;
+    text-indent: 0px;
+    line-height: 2.0;
+    background-color: black;
+}
+h4{
+    font-family: 'Poor Story', cursive;
+    color:white;
+    background-color: red;
+    text-align: center;
+
+}
+pre{
+    font-family: fantasy;
+    color:yellow;
+}
+p{
+    text-align: center;
+}
+.centralizar {
+    text-align: justify;
+}
+.coluna3{
+    column-count: 2;
+    column-gap: 140px;
+    
+    column-rule-width: 3px;
+    column-rule-color: blue; 
